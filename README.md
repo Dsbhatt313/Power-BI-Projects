@@ -1,5 +1,5 @@
 # Power-BI-Projects
-This repository contains three Power BI dashboards, each with the following files:
+This repository contains four Power BI dashboards, each with the following files:
 
 .pbix: This is the Power BI project file, which contains the interactive dashboard. Unfortunately, GitHub does not support direct viewing of .pbix files. To explore the dashboard, download the file and open it using Power BI Desktop.
 
